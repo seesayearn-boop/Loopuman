@@ -105,14 +105,14 @@ EAS Reputation Attestation (on-chain)
 
 - Website: [loopuman.com](https://loopuman.com)
 - API Docs: [api.loopuman.com/docs](https://api.loopuman.com/docs)
-- Telegram Bot: [@LoopumanBot](https://t.me/LoopumanBot)
-- 8004scan: [Agent #17](https://www.8004scan.io/agents/42220/17)
+- Telegram Bot: [@Loopuman_Bot](https://t.me/Loopuman_Bot)    
+- 8004scan: [Agent #17](https://www.8004scan.io/agents/celo/17)  
 - NPM: [loopuman](https://www.npmjs.com/package/loopuman)
 - NPM MCP: [loopuman-mcp](https://www.npmjs.com/package/loopuman-mcp)
 - Python SDK: [loopuman-python](https://github.com/seesayearn-boop/loopuman-python)
 - OpenClaw Skill: [openclaw-human-tasks](https://github.com/seesayearn-boop/openclaw-human-tasks)
 - SelfClaw: [Verified](https://selfclaw.ai/api/selfclaw/v1/agent/loopuman)
-- Molthunt: [Loopuman](https://molthunt.xyz/projects/loopuman)
+- Molthunt: [Loopuman](https://www.molthunt.com/projects/loopuman)
 
 ## License
 
