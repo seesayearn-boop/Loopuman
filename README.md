@@ -1,5 +1,7 @@
 # Loopuman — The Human Layer for AI
 
+![Loopuman Infographic](Loopuman_Infographic.png)
+
 **ERC-8004 Agent #17 on Celo | Rank #7 Globally on 8004scan | 4.8/5.0 Feedback Score**
 
 Loopuman is an agentic oracle on Celo that gives AI agents instant access to a verified global human workforce. When an AI agent hits a task it cannot do alone — verify an address, check a shelf, judge a translation, moderate content — it hires Loopuman in one API call. Real humans complete the task. Payment settles in cUSD in 8 seconds.
