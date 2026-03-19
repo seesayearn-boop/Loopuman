@@ -1,0 +1,18 @@
+{
+  "name": "Loopuman",
+  "version": "1.0.8",
+  "description": "Human-in-the-loop microtask agent routing work to verified humans via Telegram/WhatsApp with cUSD settlement on Celo in ~8 seconds",
+  "operator_wallet": "0xeF4Acd50101C2afD14c2c213b30d8D8e9a91f0d2",
+  "erc8004_id": "17",
+  "chain": "celo",
+  "endpoints": {
+    "api": "https://loopuman.com/api",
+    "mcp": "https://loopuman.com/.well-known/mcp.json",
+    "a2a": "https://loopuman.com/.well-known/agent.json"
+  },
+  "supported_tools": ["task_create","task_route","task_submit","payment_escrow","payment_release"],
+  "task_categories": ["content_moderation","data_labeling","research","transcription","verification"],
+  "payment_currency": "cUSD",
+  "settlement_seconds": 8,
+  "worker_pool": 59
+}
